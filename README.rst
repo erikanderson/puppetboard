@@ -2,6 +2,7 @@
 Puppetboard
 ###########
 
+
 Puppetboard is a web interface to `PuppetDB`_ aiming to replace the reporting
 functionality of `Puppet Dashboard`_.
 
